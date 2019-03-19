@@ -3,6 +3,7 @@ font-family: 'Roboto Condensed', sans-serif; */
 body {
   font-family: 'Roboto Condensed', sans-serif;
   background-color: #e8a87c;
+  line-height: 1.5;
 }
 
 h1 {
@@ -13,7 +14,8 @@ h1 {
 
 h2 {
   color: #c38d9e;
-  text-align: right;
+  text-align: left;
+  font-weight: lighter;
 }
 
 h1, h2, h3 {
