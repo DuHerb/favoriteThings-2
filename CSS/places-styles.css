@@ -1,0 +1,56 @@
+/* font-family: 'Cabin Sketch', cursive;
+font-family: 'Special Elite', cursive; */
+
+
+body {
+  font-family: 'Special Elite', cursive;
+  line-height: 1.5;
+  background-color: #EEE5E9;
+  color: #424B54;
+}
+
+h1, h2 {
+  font-family: 'Cabin Sketch', cursive;
+
+}
+
+h1 {
+  color: #93A8AC;
+  font-weight: bold;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+.city-header {
+  text-align: center;
+}
+
+.city-img {
+  width: 400px;
+  height: auto;
+}
+
+.city-list {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #E2B4BD;
+  margin: 0 5%;
+}
+
+.city-list li {
+  flex-direction: row;
+  padding: 0 10px;
+
+}
+
+.city-list li p {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.lower-list {
+  margin: 0 5%;
+}
